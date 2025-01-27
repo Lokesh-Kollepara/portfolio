@@ -111,15 +111,7 @@ def main():
         st.markdown("""
         <h2 style="color: #204399;">Work Experience</h2>
 
-        <h3>Data Engineer, Tech Cloud Limited</h3>
-        <p><em>Nov 2023 - Feb 2024 | Bengaluru, India</em></p>
-        <ul>
-            <li>Integrated data from various departmental modules into a centralized data warehouse on AWS Redshift, enabling real-time data flow and reporting.</li>
-            <li>Designed and implemented efficient ETL processes using AWS Glue, ensuring data consistency and accuracy for business intelligence analysis.</li>
-            <li>Developed data models on Redshift and optimized SQL queries for real-time analytics dashboards and reports, supporting decision-making for manufacturing operations.</li>
-            <li>Deployed and managed data pipeline infrastructure on AWS using Redshift for storage and processing, alongside S3 for data storage.</li>
-            <li>Collaborated with the development team to identify data requirements and produced automated reports and data insights, reducing operational costs for manufacturing clients.</li>
-        </ul>
+        
 
         <h3>AI/ML Engineer Intern, Trilio Inc.</h3>
         <p><em>Jul 2024 - Dec 2024 | Framingham, MA</em></p>
@@ -129,6 +121,16 @@ def main():
             <li>Developed a Retrieval-Augmented Generation (RAG) model using OpenAI GPT-4 for real-time log query handling, selecting GPT-4 for deployment after evaluating multiple LLMs.</li>
             <li>Deployed the anomaly detection and RAG systems on AWS infrastructure, leveraging Lambda, DynamoDB, and SageMaker for seamless integration and scalability.</li>
             <li>Integrated Pinecone as a vector database to enable fast, scalable document retrieval using embeddings for similarity search, ensuring efficient query handling.</li>
+        </ul>
+
+        <h3>Data Engineer, Tech Cloud Limited</h3>
+        <p><em>Nov 2023 - Feb 2024 | Bengaluru, India</em></p>
+        <ul>
+            <li>Integrated data from various departmental modules into a centralized data warehouse on AWS Redshift, enabling real-time data flow and reporting.</li>
+            <li>Designed and implemented efficient ETL processes using AWS Glue, ensuring data consistency and accuracy for business intelligence analysis.</li>
+            <li>Developed data models on Redshift and optimized SQL queries for real-time analytics dashboards and reports, supporting decision-making for manufacturing operations.</li>
+            <li>Deployed and managed data pipeline infrastructure on AWS using Redshift for storage and processing, alongside S3 for data storage.</li>
+            <li>Collaborated with the development team to identify data requirements and produced automated reports and data insights, reducing operational costs for manufacturing clients.</li>
         </ul>
 
         <h2 style="color: #204399;">Projects</h2>
